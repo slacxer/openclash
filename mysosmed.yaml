@@ -1,0 +1,40 @@
+payload:
+  
+  - '+.cdninstagram.com'
+  - '+.instagram.com'
+  - '+.messenger.com'
+  - '+.facebook.com'
+  - '+.facebook.net'
+  - '+.fb.com'
+  - '+.fb.me'
+  - '+.fbaddins.com'
+  - '+.fbcdn.net'
+  - '+.fbsbx.com'
+  - '+.fbworkmail.com'
+  - '+.facebookmail.com'
+
+  
+  # Telegram
+  - '+.telegra.ph'
+  - '+.telegram.org'
+  - '+.t.me'
+  - '+.tdesktop.com'
+  - '+.telegram.me'
+  - '+.telesco.pe'
+ 
+  # Twitter
+  - '+.pscp.tv'
+  - '+.periscope.tv'
+  - '+.t.co'
+  - '+.twimg.co'
+  - '+.twimg.com'
+  - '+.twitpic.com'
+  - '+.twitter.com'
+  - '+.vine.co'
+  - '+.twttr.net'
+  - '+.twttr.com'
+  - '+.twitter.jp'
+ 
+  # Deezer
+  - '+.deezer.com'
+  - '+.dzcdn.net'
