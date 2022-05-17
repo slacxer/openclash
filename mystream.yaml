@@ -1,7 +1,4 @@
 payload:
-
-  # Youtube
-
   - '+.youtube.com'
   - '+.ggpht.cn'
   - '+.ggpht.com'

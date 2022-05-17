@@ -1,4 +1,4 @@
-payload:'
+payload:
   # FreeFire'
   - '+.garena.com'
   - '+.avatargarenanow-a.akamaihd.net'
@@ -18,11 +18,11 @@ payload:'
   # PUBG'
   - '+.pubgmobile.com'
   - '+.igamecj.com'
-'
+
   # Roblox'
   - '+.rbxcdn.com'
   - '+.roblox.com'
-'
+
   # Game'
   - '+.100classicbooks.com'
   - '+.ac-pocketcamp.com'
@@ -521,7 +521,7 @@ payload:'
   - '+.xn--mts47c3w9b1qr.net'
   - '+.yogify.com'
   - '+.yoshisnewisland.com'
- '
+ 
   ## >> Plants VS Zombies'
   - '+.plantsvszombies2.com'
   - '+.pvzgw2.com'
