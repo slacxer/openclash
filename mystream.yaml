@@ -246,3 +246,4 @@ payload:
  
   #facebook
   - '+.fbcdn.net'
+  - '+.akamaihd.net'
