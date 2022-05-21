@@ -244,3 +244,5 @@ payload:
   - '+.disneystreaming.com'
   - '+.dssott.com'
  
+  #facebook
+  - '+.fbcdn.net'
