@@ -244,10 +244,6 @@ payload:
   - '+.disneystreaming.com'
   - '+.dssott.com'
  
-  #facebook
-  - '+.fbcdn.net'
-  - '+.akamaihd.net'
-  
   #snack
   - '+.kwai.com'
   - '+.kwai.net'
