@@ -247,3 +247,11 @@ payload:
   #facebook
   - '+.fbcdn.net'
   - '+.akamaihd.net'
+  
+  #snack
+  - '+.kwai.com'
+  - '+.kwai.net'
+  - '+.kwai-pro.com'
+  - '+.kwaipros.com'
+  - '+.snackvideo.in'
+  
