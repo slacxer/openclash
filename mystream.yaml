@@ -256,4 +256,4 @@ payload:
   - '+.snackvideo.in'
   
   #shopee
-  - '+.vod.shopee.com'
+  #- '+.vod.shopee.com'
