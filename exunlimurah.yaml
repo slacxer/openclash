@@ -2,6 +2,9 @@ payload:
   - '+.whatsapp.com'
   - '+.whatsapp.net'
   - '+.wa.me'
+  - '+.whatsapp.biz'
+  - '+.dl.bintray.com'
+  - '+.akamai.bintray.com'
 
   - '+.lin.ee'
   - '+.line.me'
