@@ -8,6 +8,7 @@ payload:
 #zoom
   - '+.zoom.us'
   - '+.zoom-general.s3.amazonaws.com'
+  - '+.ada.support'
 
 #google
   - '+.meetings.googleapis.com'
