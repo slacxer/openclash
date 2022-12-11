@@ -1,5 +1,52 @@
 payload:
+#whatsapp
   - '+.whatsapp.com'
   - '+.whatsapp.net'
   - '+.wa.me'
   - '+.whatsapp.biz'
+  
+#zoom
+  - '+.zoom.us'
+  - '+.zoom-general.s3.amazonaws.com'
+
+#google
+  - '+.meetings.googleapis.com'
+  - '+.classroom.google.com'
+  - '+.hangouts.googleapis.com'
+  - '+.userlocation.googleapis.com'
+  - '+.stun.l.google.com'
+  - '+.instantmessaging-pa.googleapis.com'
+  - '+.mtalk.google.com'
+  - '+.mobilemaps.googleapis.com'
+  - '+.mobilemaps-pa-gz.googleapis.com'
+  - '+.clients4.google.com'
+  - '+.android.googleapis.com'
+  - '+.safebrowsing.googleapis.com'
+  - '+.lh3.googleusercontent.com'
+  - '+.lh5.googleusercontent.com'
+  - '+.apis.google.com'
+  - '+.peoplestack-pa.googleapis.com'
+  - '+.gz0.googleusercontent.com'
+  - '+.geoar.googleapis.com'
+  - '+.streetviewpixels-pa.googleapis.com'
+  - '+.maps.gstatic.com'
+  - '+.maps.google.com'
+  - '+.optimizationguide-pa.googleapis.com'
+  - '+.clients3.google.com'
+  - '+.notifications-pa.googleapis.com'
+  
+#microsoft
+  - '+.events.data.microsoft.com'
+  - '+.teams.cdn.live.net'
+  - '+.teams.live.com'
+  - '+.teams.microsoft.com'
+  - '+.smartscreen-prod.microsoft.com'
+  - '+.self.events.data.microsoft.com'
+  - '+.nav.smartscreen.microsoft.com'
+  - '+.edge.microsoft.com'
+
+#ruangguru
+  - '+.ruangguru.com'
+
+#midtrans
+  - '+.midtrans.com'
