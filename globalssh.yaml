@@ -1,0 +1,23 @@
+proxies:
+  - name: SGOVH1 GlobalSSH 9Mar
+    type: trojan
+    server: 104.20.75.141
+    port: 443
+    password: wuaddaa
+    udp: true
+    sni: trojan-ovh-sg01.globalssh.xyz
+    skip-cert-verify: true
+    network: ws
+    ws-opts:
+       path: "/trojan-ws"
+  - name: SGOVH2 GlobalSSH 9Mar
+    type: trojan
+    server: 104.17.3.81
+    port: 443
+    password: lagilagi
+    udp: true
+    sni: trojan-ovh-sg02.globalssh.xyz
+    skip-cert-verify: true
+    network: ws
+    ws-opts:
+      path: "/trojan-ws"
