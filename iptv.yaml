@@ -1,0 +1,23 @@
+proxies:
+  - name: Howdy OVH 1
+    type: trojan
+    server: 104.17.3.81
+    port: 443
+    password: 0f70ddb0-cc89-11ed-8a92-1239d0255272
+    udp: true
+    sni: sg-3.test3.net
+    skip-cert-verify: true
+    network: ws
+    ws-opts:
+       path: "/howdy"
+  - name: Howdy OVH 2
+    type: trojan
+    server: 104.20.75.141
+    port: 443
+    password: 61f76360-cc89-11ed-a1a8-1239d0255272
+    udp: true
+    sni: sg-3.test3.net
+    skip-cert-verify: true
+    network: ws
+    ws-opts:
+      path: "/howdy"
