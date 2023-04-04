@@ -3,7 +3,7 @@ proxies:
     type: trojan
     server: 104.17.3.81
     port: 443
-    password: 0f70ddb0-cc89-11ed-8a92-1239d0255272
+    password: 72604280-d307-11ed-b8b3-1239d0255272
     udp: true
     sni: sg-3.test3.net
     skip-cert-verify: true
@@ -14,7 +14,7 @@ proxies:
     type: trojan
     server: 104.20.75.141
     port: 443
-    password: 61f76360-cc89-11ed-a1a8-1239d0255272
+    password: 913c5ed0-d307-11ed-aca5-1239d0255272
     udp: true
     sni: sg-3.test3.net
     skip-cert-verify: true
@@ -25,7 +25,7 @@ proxies:
     type: trojan
     server: 104.20.75.141
     port: 443
-    password: 0cec0d10-ce79-11ed-9bb9-1239d0255272
+    password: a7dfc7f0-d307-11ed-94b8-1239d0255272
     udp: true
     sni: sg-3.test3.net
     skip-cert-verify: true
@@ -36,7 +36,7 @@ proxies:
     type: trojan
     server: 104.20.75.141
     port: 443
-    password: 95d3adc0-cc89-11ed-a3fc-1239d0255272
+    password: bf23ff90-d307-11ed-9799-1239d0255272
     udp: true
     sni: sg-3.test3.net
     skip-cert-verify: true
@@ -47,7 +47,7 @@ proxies:
     type: trojan
     server: 104.20.75.141
     port: 443
-    password: c8d734b0-cc89-11ed-aed0-1239d0255272
+    password: d713cc50-d307-11ed-b68d-1239d0255272
     udp: true
     sni: sg-3.test3.net
     skip-cert-verify: true
