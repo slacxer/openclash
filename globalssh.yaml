@@ -3,7 +3,7 @@ proxies:
     type: trojan
     server: 104.20.75.141
     port: 443
-    password: wuaddaa
+    password: 11223344
     udp: true
     sni: trojan-ovh-sg01.globalssh.xyz
     skip-cert-verify: true
@@ -14,7 +14,7 @@ proxies:
     type: trojan
     server: 104.17.3.81
     port: 443
-    password: lagilagi
+    password: 11223344
     udp: true
     sni: trojan-ovh-sg02.globalssh.xyz
     skip-cert-verify: true
