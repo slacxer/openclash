@@ -5,7 +5,7 @@ proxies:
     port: 443
     password: 11223344
     udp: true
-    sni: trojan-ctb-sg02.globalssh.xyz
+    sni: trojan-ovh-sg01.globalssh.xyz
     skip-cert-verify: true
     network: ws
     ws-opts:
