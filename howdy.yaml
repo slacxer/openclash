@@ -1,55 +1,55 @@
 proxies:
-  - name: Howdy OVH 1
+  - name: Howdy Melbi 1
     type: trojan
     server: 104.17.3.81
     port: 443
-    password: 8e872320-e9f5-11ed-bfb4-1239d0255272
+    password: dec44a90-f216-11ed-b77a-1239d0255272
     udp: true
-    sni: sg-3.test3.net
+    sni: sg-4.test3.net
     skip-cert-verify: true
     network: ws
     ws-opts:
        path: "/howdy"
-  - name: Howdy OVH 2
+  - name: Howdy Melbi 2
     type: trojan
     server: 104.20.75.141
     port: 443
-    password: 62ed5190-db7a-11ed-9b42-1239d0255272
+    password: 411da690-f219-11ed-8185-1239d0255272
     udp: true
-    sni: sg-3.test3.net
+    sni: sg-4.test3.net
     skip-cert-verify: true
     network: ws
     ws-opts:
       path: "/howdy"
-  - name: Howdy OVH 3
+  - name: Howdy Melbi 3
     type: trojan
     server: 104.20.75.141
     port: 443
-    password: 5e209370-d850-11ed-8e32-1239d0255272
+    password: 5dfc8a00-f219-11ed-ab85-1239d0255272
     udp: true
-    sni: sg-3.test3.net
+    sni: sg-4.test3.net
     skip-cert-verify: true
     network: ws
     ws-opts:
        path: "/howdy"
-  - name: Howdy OVH 4
+  - name: Howdy Melbi 4
     type: trojan
     server: 104.20.75.141
     port: 443
-    password: 74180260-d850-11ed-b062-1239d0255272
+    password: 7a9e7c00-f219-11ed-b67d-1239d0255272
     udp: true
-    sni: sg-3.test3.net
+    sni: sg-4.test3.net
     skip-cert-verify: true
     network: ws
     ws-opts:
       path: "/howdy"
-  - name: Howdy OVH 5
+  - name: Howdy Melbi 5
     type: trojan
     server: 104.20.75.141
     port: 443
-    password: 8a6fff30-d850-11ed-a392-1239d0255272
+    password: 96064860-f219-11ed-9813-1239d0255272
     udp: true
-    sni: sg-3.test3.net
+    sni: sg-4.test3.net
     skip-cert-verify: true
     network: ws
     ws-opts:
