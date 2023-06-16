@@ -12,7 +12,7 @@ proxies:
        path: "/trojan-ws"
   - name: SGOVH2 GlobalSSH 9Mar
     type: trojan
-    server: 104.18.1.196
+    server: 104.18.2.198
     port: 443
     password: 11223344
     udp: true
