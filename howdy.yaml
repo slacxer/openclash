@@ -1,15 +1,15 @@
 proxies:
   - name: Howdy Melbi 1
     type: trojan
-    server: 104.17.3.81
+    server: 104.20.75.141
     port: 443
-    password: e410db70-03ef-11ee-929a-1239d0255272
+    password: f327164d-8af7-4c2e-94f2-8acacc1656d7
     udp: true
-    sni: sg-4.test3.net
+    sni: sgt3.sshocean.net
     skip-cert-verify: true
     network: ws
     ws-opts:
-       path: "/howdy"
+       path: "/websocket"
   - name: Howdy Herza
     type: trojan
     server: 104.20.75.141
