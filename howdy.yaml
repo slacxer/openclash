@@ -10,17 +10,17 @@ proxies:
     network: ws
     ws-opts:
        path: "/howdy"
-  - name: Howdy Herza
+  - name: OBFS SINGAPORE3
     type: trojan
     server: 104.20.75.141
     port: 443
-    password: 4e6ee7f5-fec0-4145-b263-38e49f2b3f86
+    password: 98447cb0-3e49-11ee-8a8b-1239d0255272
     udp: true
-    sni: sgt1.sshocean.net
+    sni: sg3.socifiles.com
     skip-cert-verify: true
     network: ws
     ws-opts:
-      path: "/websocket"
+      path: "/trojanws"
   - name: Howdy Melbi 3
     type: trojan
     server: 104.20.75.141
