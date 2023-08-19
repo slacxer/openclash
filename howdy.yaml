@@ -3,13 +3,13 @@ proxies:
     type: trojan
     server: 104.20.75.141
     port: 443
-    password: f327164d-8af7-4c2e-94f2-8acacc1656d7
+    password: 544539a0-3e48-11ee-8929-1239d0255272
     udp: true
-    sni: sgt3.sshocean.net
+    sni: sg-4.test3.net
     skip-cert-verify: true
     network: ws
     ws-opts:
-       path: "/websocket"
+       path: "/howdy"
   - name: Howdy Herza
     type: trojan
     server: 104.20.75.141
