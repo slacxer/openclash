@@ -12,15 +12,15 @@ proxies:
        path: "/howdy"
   - name: OBFS SINGAPORE3
     type: trojan
-    server: 104.20.75.141
+    server: 104.18.3.81
     port: 443
-    password: 98447cb0-3e49-11ee-8a8b-1239d0255272
+    password: mainssh-Okedehaaa
     udp: true
-    sni: sg3.socifiles.com
+    sni: sgtws.mainssh.xyz
     skip-cert-verify: true
     network: ws
     ws-opts:
-      path: "/trojanws"
+      path: "/trojan"
   - name: Howdy Melbi 3
     type: trojan
     server: 104.20.75.141
