@@ -1,9 +1,9 @@
 payload:
 #whatsapp
-  - '+.whatsapp.com'
-  - '+.whatsapp.net'
-  - '+.wa.me'
-  - '+.whatsapp.biz'
+#  - '+.whatsapp.com'
+#  - '+.whatsapp.net'
+#  - '+.wa.me'
+#  - '+.whatsapp.biz'
   
 #zoom
 #  - '+.zoom.us'
