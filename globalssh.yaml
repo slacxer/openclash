@@ -14,9 +14,9 @@ proxies:
     type: trojan
     server: 104.18.3.81
     port: 443
-    password: 11223344
+    password: 1122334455
     udp: true
-    sni: trojan-ovh-sg02.globalssh.xyz
+    sni: trojan-ovh-sg01.globalssh.xyz
     skip-cert-verify: true
     network: ws
     ws-opts:
