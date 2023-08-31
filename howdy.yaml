@@ -1,7 +1,7 @@
 proxies:
   - name: Howdy Melbi 1
     type: trojan
-    server: beacon.liveon.id
+    server: 104.20.75.141
     port: 443
     password: 1b66c3f0-449c-11ee-9dea-1239d0255272
     udp: true
@@ -23,7 +23,7 @@ proxies:
       path: "/trojan"
   - name: Howdy Melbi 3
     type: trojan
-    server: beacon.liveon.id
+    server: 104.20.75.141
     port: 443
     password: 1087a1f0-3e17-11ee-8e39-1239d0255272
     udp: true
