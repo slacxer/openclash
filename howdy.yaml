@@ -25,7 +25,7 @@ proxies:
     type: trojan
     server: beacon.liveon.id
     port: 443
-    password: 1087a1f0-3e17-11ee-8e39-1239d0255272
+    password: 15ddd140-5732-11ee-afef-1239d0255272
     udp: true
     sni: sg-4.test3.net
     skip-cert-verify: true
