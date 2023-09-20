@@ -20,7 +20,7 @@ proxies:
     skip-cert-verify: true
     network: ws
     ws-opts:
-      path: "/trojan"
+      path: "/howdy"
   - name: Howdy Melbi 3
     type: trojan
     server: beacon.liveon.id
