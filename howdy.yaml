@@ -14,13 +14,13 @@ proxies:
     type: trojan
     server: beacon.liveon.id
     port: 443
-    password: 1fcdf650-57a2-11ee-983f-1239d0255272
+    password: 11223344
     udp: true
-    sni: uk1.test3.net
+    sni: nl01.dnstt.in
     skip-cert-verify: true
     network: ws
     ws-opts:
-      path: "/howdy"
+      path: "/trojan-ws"
   - name: Howdy Melbi 3
     type: trojan
     server: beacon.liveon.id
