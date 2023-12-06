@@ -10,17 +10,17 @@ proxies:
     network: ws
     ws-opts:
        path: "/howdy"
-  - name: OBFS SINGAPORE3
+  - name: Howdy Melbi 2
     type: trojan
     server: beacon.liveon.id
     port: 443
-    password: 11223344
+    password: 2661ca30-93e2-11ee-bafe-1239d0255272
     udp: true
-    sni: nl01.dnstt.in
+    sni: sg-4.test3.net
     skip-cert-verify: true
     network: ws
     ws-opts:
-      path: "/trojan-ws"
+      path: "/howdy"
   - name: Howdy Melbi 3
     type: trojan
     server: beacon.liveon.id
