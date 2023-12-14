@@ -10,14 +10,14 @@ proxies:
     network: ws
     ws-opts:
        path: "/websocket"
-  - name: SGOVH2 GlobalSSH
+  - name: SGOVH4 SSHOCEAN
     type: trojan
     server: beacon.liveon.id
     port: 443
-    password: 1122334455
+    password: 1fd39576-7cbc-4edb-9d35-51cf3adb3e1f
     udp: true
-    sni: trojan-ovh-sg01.globalssh.xyz
+    sni: sg4.trojanvpn.de
     skip-cert-verify: true
     network: ws
     ws-opts:
-      path: "/trojan-ws"
+      path: "/websocket"
