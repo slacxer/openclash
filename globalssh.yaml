@@ -1,5 +1,5 @@
 proxies:
-  - name: SGOVH1 SSHOCEAN
+  - name: SGOVH1 SSHOCEAN NADIA
     type: trojan
     server: beacon.liveon.id
     port: 443
