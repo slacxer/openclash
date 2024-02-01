@@ -12,7 +12,7 @@ proxies:
        path: "/howdy"
   - name: Howdy Melbi 2
     type: trojan
-    server: beacon.liveon.id
+    server: circles.asia
     port: 443
     password: bbd32f90-bbf2-11ee-8dc2-1239d0255272
     udp: true
