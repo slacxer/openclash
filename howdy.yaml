@@ -3,7 +3,7 @@ proxies:
     type: trojan
     server: circles.asia
     port: 443
-    password: a1a53770-bbf2-11ee-bd04-1239d0255272
+    password: 380ba780-c6e9-11ee-838a-1239d0255272
     udp: true
     sni: sg-4.test3.net
     skip-cert-verify: true
@@ -14,7 +14,7 @@ proxies:
     type: trojan
     server: circles.asia
     port: 443
-    password: bbd32f90-bbf2-11ee-8dc2-1239d0255272
+    password: 4a37d560-c6e9-11ee-858a-1239d0255272
     udp: true
     sni: sg-4.test3.net
     skip-cert-verify: true
@@ -25,7 +25,7 @@ proxies:
     type: trojan
     server: circles.asia
     port: 443
-    password: d1359030-bbf2-11ee-af97-1239d0255272
+    password: 5a0f1550-c6e9-11ee-98bc-1239d0255272
     udp: true
     sni: sg-4.test3.net
     skip-cert-verify: true
@@ -36,7 +36,7 @@ proxies:
     type: trojan
     server: circles.asia
     port: 443
-    password: e7b31080-bbf2-11ee-8a9f-1239d0255272
+    password: 6db934b0-c6e9-11ee-b31c-1239d0255272
     udp: true
     sni: sg-4.test3.net
     skip-cert-verify: true
@@ -47,7 +47,7 @@ proxies:
     type: trojan
     server: beacon.liveon.id
     port: 443
-    password: 0951a440-bbf3-11ee-8a00-1239d0255272
+    password: 84454a10-c6e9-11ee-a614-1239d0255272
     udp: true
     sni: sg-4.test3.net
     skip-cert-verify: true
