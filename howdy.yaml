@@ -1,7 +1,7 @@
 proxies:
   - name: Howdy Melbi 1
     type: trojan
-    server: beacon.liveon.id
+    server: github.com
     port: 443
     password: 1be00a50-ce0f-11ee-bde5-1239d0255272
     udp: true
