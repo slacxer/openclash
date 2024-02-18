@@ -3,9 +3,9 @@ proxies:
     type: trojan
     server: circles.asia
     port: 443
-    password: 43c3eae0-ce0c-11ee-a1e2-1239d0255272
+    password: 1be00a50-ce0f-11ee-bde5-1239d0255272
     udp: true
-    sni: sg-4.test3.net
+    sni: id-1.test3.net
     skip-cert-verify: true
     network: ws
     ws-opts:
