@@ -1,9 +1,9 @@
 proxies:
   - name: Howdy Melbi 1
     type: trojan
-    server: github.com
+    server: beacon.liveon.id
     port: 443
-    password: 1be00a50-ce0f-11ee-bde5-1239d0255272
+    password: 95ca3920-d3a3-11ee-b6de-1239d0255272
     udp: true
     sni: id-1.test3.net
     skip-cert-verify: true
@@ -14,7 +14,7 @@ proxies:
     type: trojan
     server: beacon.liveon.id
     port: 443
-    password: 1be00a50-ce0f-11ee-bde5-1239d0255272
+    password: be46db00-d3a3-11ee-9b07-1239d0255272
     udp: true
     sni: sg-4.test3.net
     skip-cert-verify: true
@@ -25,7 +25,7 @@ proxies:
     type: trojan
     server: beacon.liveon.id
     port: 443
-    password: 76786660-ce0c-11ee-b4d3-1239d0255272
+    password: db2bbee0-d3a3-11ee-869b-1239d0255272
     udp: true
     sni: sg-4.test3.net
     skip-cert-verify: true
@@ -36,7 +36,7 @@ proxies:
     type: trojan
     server: beacon.liveon.id
     port: 443
-    password: 8c178360-ce0c-11ee-8abd-1239d0255272
+    password: ef6eed40-d3a3-11ee-a296-1239d0255272
     udp: true
     sni: sg-4.test3.net
     skip-cert-verify: true
@@ -47,7 +47,7 @@ proxies:
     type: trojan
     server: beacon.liveon.id
     port: 443
-    password: a51403a0-ce0c-11ee-8b34-1239d0255272
+    password: 0aaafd70-d3a4-11ee-8c31-1239d0255272
     udp: true
     sni: sg-4.test3.net
     skip-cert-verify: true
