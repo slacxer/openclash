@@ -5,7 +5,7 @@ proxies:
     port: 443
     password: 95ca3920-d3a3-11ee-b6de-1239d0255272
     udp: true
-    sni: id-1.test3.net
+    sni: sg-4.test3.net
     skip-cert-verify: true
     network: ws
     ws-opts:
