@@ -1,7 +1,7 @@
 proxies:
   - name: Howdy Melbi 1
     type: trojan
-    server: www.callofduty.com
+    server: web.poe.garena.com
     port: 443
     password: 95ca3920-d3a3-11ee-b6de-1239d0255272
     udp: true
