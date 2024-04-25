@@ -14,7 +14,7 @@ proxies:
     type: trojan
     server: 104.18.24.139
     port: 443
-    password: 28949ca0-f419-11ee-8b3d-1239d0255272
+    password: dd5637e0-0302-11ef-951f-1239d0255272
     udp: true
     sni: sg-4.test3.net
     skip-cert-verify: true
