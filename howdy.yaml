@@ -1,7 +1,7 @@
 proxies:
   - name: Howdy Melbi 1
     type: trojan
-    server: 104.18.24.139
+    server: 104.16.85.20
     port: 443
     password: af96dab0-016d-11ef-aa82-1239d0255272
     udp: true
@@ -45,7 +45,7 @@ proxies:
       path: "/howdy"
   - name: Howdy Melbi 5
     type: trojan
-    server: 104.18.24.139
+    server: 104.16.85.20
     port: 443
     password: 75de4a60-0349-11ef-bc8a-1239d0255272
     udp: true
